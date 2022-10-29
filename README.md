@@ -147,11 +147,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Authors
-<img src="https://github.com/yuenci.png?size=60" alt="profile image" style="border-radius:50%;">
-
-
-[![Yuenci](https://github.com/yuenci.png?size=60)](https://github.com/yuenci)
-
+<img src="https://github.com/yuenci/Laptop-Repair-Services-Management-System/blob/master/image/avatar-innis.png" alt="profile image">
 <!-- LICENSE -->
 ## License
 
