@@ -148,6 +148,8 @@ Don't forget to give the project a star! Thanks again!
 
 ## Authors
 <img src="https://github.com/yuenci/Laptop-Repair-Services-Management-System/blob/master/image/avatar-innis.png" alt="profile image" width="60px">
+
+
 <!-- LICENSE -->
 ## License
 
